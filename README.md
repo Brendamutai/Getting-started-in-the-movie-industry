@@ -33,7 +33,7 @@ We will now proceed to plot our data to help us get a better sense of how each o
 *1. What movie genres are more likely to succeed?*
 
 To find out which genres are more likely to succeed we will plot a horizontal bar graph of genres by ratings and we can see that genres like Action/Adventure/Comedy and Action/Adventure/Sci-Fi remain highly popular.
-[https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/Capture.JPG]
+![Alt text](https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/Capture.JPG)
 
 *2. How has the film industry been performing over the years?*
 
