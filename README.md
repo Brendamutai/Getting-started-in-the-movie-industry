@@ -46,6 +46,9 @@ This analysis was conducted by examining the runtime distribution of genres by r
 These insights will help us better understand the characteristics of popular genres and their performance across different regions.
 ![Alt text](https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/genres%20by%20region.JPG)
 
+**4. What studios perform best in terms of total gross?**
+We analyzed how different studios have performed in terms of total gross revenue generated. From the bar chart above, we can clearly see that BV , Fox , and WB are the top three studios, generating significantly higher total revenue compared to others.
+
 # Conclusion
 
 The analysis of the IMDB and Box Office Mojo datasets has provided valuable insights into the film industry and key factors for success. Some of the key findings were :
