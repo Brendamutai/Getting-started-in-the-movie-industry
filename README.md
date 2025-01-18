@@ -39,6 +39,7 @@ To find out which genres are more likely to succeed we will plot a horizontal ba
 
 We analyzed the growth of the film industry by observing the trend of the average revenue of the studios from 2010 to 2018.
 To understand the average box office revenue trends over time, we analyzed the yearly average gross revenue and visualized it with a line chart.
+![Alt text](https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/Total%20gross%20by%20year.JPG)
 
 *3. What genres are most popular across different regions?*
 This analysis was conducted by examining the runtime distribution of genres by region. 
