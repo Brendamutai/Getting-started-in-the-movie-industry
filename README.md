@@ -44,7 +44,7 @@ To understand the average box office revenue trends over time, we analyzed the y
 *3. What genres are most popular across different regions?*
 This analysis was conducted by examining the runtime distribution of genres by region. 
 These insights will help us better understand the characteristics of popular genres and their performance across different regions.
-
+![Alt text](https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/genres%20by%20region.JPG)
 
 # Conclusion
 
