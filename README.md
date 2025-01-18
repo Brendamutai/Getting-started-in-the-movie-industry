@@ -33,22 +33,26 @@ We will now proceed to plot our data to help us get a better sense of how each o
 **1. What movie genres are more likely to succeed?**
 
 To find out which genres are more likely to succeed we will plot a horizontal bar graph of genres by ratings and we can see that genres like Action/Adventure/Comedy and Action/Adventure/Sci-Fi remain highly popular.
+
 ![Alt text](https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/Capture.JPG)
 
 **2. How has the film industry been performing over the years?**
 
 We analyzed the growth of the film industry by observing the trend of the average revenue of the studios from 2010 to 2018.
 To understand the average box office revenue trends over time, we analyzed the yearly average gross revenue and visualized it with a line chart.
+
 ![Alt text](https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/Total%20gross%20by%20year.JPG)
 
 **3. What genres are most popular across different regions?**
 This analysis was conducted by examining the runtime distribution of genres by region. 
 These insights will help us better understand the characteristics of popular genres and their performance across different regions.
+
 ![Alt text](https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/genres%20by%20region.JPG)
 
 **4. What studios perform best in terms of total gross?**
 We analyzed how different studios have performed in terms of total gross revenue generated. From the bar chart above, we can clearly see that BV , Fox , and WB are the top three studios, generating significantly higher total revenue compared to others.
 
+![Alt text](https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/Total%20gross%20by%20studio.JPG)
 # Conclusion
 
 The analysis of the IMDB and Box Office Mojo datasets has provided valuable insights into the film industry and key factors for success. Some of the key findings were :
