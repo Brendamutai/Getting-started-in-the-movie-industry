@@ -6,7 +6,9 @@ This analysis explores data from Box Office Mojo. Starting with an overview of t
 # Business Understanding
 
 In a world where original video content dominates the entertainment industry, our company, Connie Company, is ready to take the leap into filmmaking. However, we currently lack experience in the world of cinema. To ensure our success, we must make data-driven decisions about the types of films we produce. This analysis will help the Head of Connie Company understand what makes a movie thrive in the box office.
+
 *Objectives*
+
 1. Uncover trends and insights by understanding the market.
 2. Discover success factors in terms of genres and studios.
 3. Provide recommendations and actionable insights.
@@ -21,14 +23,17 @@ This dataset is going to enable us to analyse Box Office Movies for trends and p
 # Data Analysis
 
 We have thoroughly prepared our data for visualization, and we can now return to our three objectives for analysis:
+
 1. Uncover trends and insights by understanding the market.
 2. Discover success factors in terms of genres and studios.
 3. Provide recommendations and actionable insights.
 
 We will now proceed to plot our data to help us get a better sense of how each of these criteria translate to a movie's success.
+
 *1. What movie genres are more likely to succeed?*
 
 To find out which genres are more likely to succeed we will plot a horizontal bar graph of genres by ratings and we can see that genres like Action/Adventure/Comedy and Action/Adventure/Sci-Fi remain highly popular.
+[https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/Capture.JPG]
 
 *2. How has the film industry been performing over the years?*
 
