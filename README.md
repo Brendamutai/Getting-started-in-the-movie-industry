@@ -7,7 +7,7 @@ This analysis explores data from Box Office Mojo. Starting with an overview of t
 
 In a world where original video content dominates the entertainment industry, our company, Connie Company, is ready to take the leap into filmmaking. However, we currently lack experience in the world of cinema. To ensure our success, we must make data-driven decisions about the types of films we produce. This analysis will help the Head of Connie Company understand what makes a movie thrive in the box office.
 
-*Objectives*
+**Objectives**
 
 1. Uncover trends and insights by understanding the market.
 2. Discover success factors in terms of genres and studios.
@@ -30,18 +30,18 @@ We have thoroughly prepared our data for visualization, and we can now return to
 
 We will now proceed to plot our data to help us get a better sense of how each of these criteria translate to a movie's success.
 
-*1. What movie genres are more likely to succeed?*
+**1. What movie genres are more likely to succeed?**
 
 To find out which genres are more likely to succeed we will plot a horizontal bar graph of genres by ratings and we can see that genres like Action/Adventure/Comedy and Action/Adventure/Sci-Fi remain highly popular.
 ![Alt text](https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/Capture.JPG)
 
-*2. How has the film industry been performing over the years?*
+**2. How has the film industry been performing over the years?**
 
 We analyzed the growth of the film industry by observing the trend of the average revenue of the studios from 2010 to 2018.
 To understand the average box office revenue trends over time, we analyzed the yearly average gross revenue and visualized it with a line chart.
 ![Alt text](https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/Total%20gross%20by%20year.JPG)
 
-*3. What genres are most popular across different regions?*
+**3. What genres are most popular across different regions?**
 This analysis was conducted by examining the runtime distribution of genres by region. 
 These insights will help us better understand the characteristics of popular genres and their performance across different regions.
 ![Alt text](https://github.com/Brendamutai/Getting-started-in-the-movie-industry/blob/main/genres%20by%20region.JPG)
@@ -62,23 +62,28 @@ The analysis of the IMDB and Box Office Mojo datasets has provided valuable insi
 
 ## Recommendations
 
-*1. Partner with or learn from Top performing studios.*
+**1. Partner with or learn from Top performing studios.**
+
 The dominance of studios like `BV`, `Fox`, and `WB` suggests that we can benefit from studying their strategies, such as:
 Targeting family-friendly or globally appealing content (as many of these studios specialize in).
 Leveraging strong marketing campaigns and partnerships to boost box office performance.
 Alternatively, Microsoft could consider partnering with these studios or hiring experienced professionals from these companies to gain an edge.
 
-*2. Invest in international markets.*
+**2. Invest in international markets.**
+
 The significant contribution of `foreign_gross` to `total_gross` indicates the importance of international markets.
 We should prioritize producing films with global appeal, incorporating universal themes, diverse casts, and multilingual releases to maximize international earnings.
 
-*3. Capitalize on emerging trends.*
+**3. Capitalize on emerging trends.**
+
 The upward trend in yearly average gross revenue shows a growing market for films.
 
-*4. Focus on High-Rated Genres for Production.*
+**4. Focus on High-Rated Genres for Production.**
+
 Genres such as Action/Adventure/Comedy and Action/Adventure/Sci-Fi have consistently high average ratings. We should definitely prioritize these genres as the audience seems to enjoy them more. 
 
-*5. Tailor Content by Region.*
+**5. Tailor Content by Region.**
+
 The analysis shows variations in runtime preferences across regions. We should adapt content style to suit regional preferences, creating targeted projects for maximum impact in different markets.
 
 
